@@ -1,0 +1,6 @@
+jupyter notebook
+langchain_openai
+langchain_community
+langchain
+pymysql
+chromadb -q
